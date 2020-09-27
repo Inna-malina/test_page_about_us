@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="196" height="38" viewBox="0 0 196 38">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 19px;
+        font-family: Rubik;
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-2 {
+        text-anchor: end;
+        font-variant: small-caps;
+      }
+
+      .cls-2 {
+        font-size: 12px;
+        font-family: Arial;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <image id="Слой_0" data-name="Слой 0" x="2" y="3" width="150" height="35" xlink:href="data:img/png;base64,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"/>
+  <text id="_8_800_5555_219" data-name="8 800 5555 219" class="cls-1" x="187.875" y="17.975"><tspan x="187.875">8 800 5555 219</tspan></text>
+  <text id="Звонок_бесплатный" data-name="Звонок бесплатный" class="cls-2" x="188.602" y="32.021"><tspan x="188.602">Звонок бесплатный</tspan></text>
+</svg>
